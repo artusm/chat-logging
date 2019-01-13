@@ -1,5 +1,5 @@
-publichot
-publicstorage
-storage.key
+public/hot
+public/storage
+storage/key
 vendor
 .env
